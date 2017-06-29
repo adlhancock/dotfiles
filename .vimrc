@@ -7,6 +7,7 @@ set showmatch		" highlight matching brackets
 " interface 
 set mouse=a	" enable mouse
 set number	" show numbered lines
+set nocompatible
 
 " formatting
 set tabstop=4		" set tabs as 4 spaces
