@@ -7,6 +7,7 @@ set showmatch		" highlight matching brackets
 " interface 
 set mouse=a	" enable mouse
 set number	" show numbered lines
+set nocompatible
 
 " formatting
 set tabstop=4		" set tabs as 4 spaces
@@ -14,6 +15,7 @@ set softtabstop=4	" set tabs as 4 spaces when editing
 set textwidth=79	" set text width as 79
 set colorcolumn=+1	" highlight the column after 80
 filetype indent on	" indenting
+filetype on
 
 " commands 
 set showcmd		" show last command in bottom bar
