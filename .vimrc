@@ -1,4 +1,4 @@
-" .vimrc config file
+" .vimrc config file from github.com/dhancock/dotfiles
 " colour options
 syntax enable		" turn on syntax
 set background=dark	" use bright colours for dark backgrounds
