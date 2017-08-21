@@ -16,7 +16,7 @@ set softtabstop=4	" set tabs as 4 spaces when editing
 set shiftwidth=4 " set insertion as 4 spaces
 set textwidth=79	" set text width as 79
 set colorcolumn=+1	" highlight the column after 80
-set filetype indent on	" indenting according to filetype
+filetype indent on	" indenting according to filetype
 filetype on
 
 " commands 
